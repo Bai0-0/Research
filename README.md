@@ -1,2 +1,4 @@
-# Backtest
-write strategy and perform the backtesting
+# Research
+reinforcement learning
+strategy backtest
+deep learning
